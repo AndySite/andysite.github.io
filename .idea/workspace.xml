@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c8092ae-282b-4fd5-a918-64506c171ee0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/01-快速上手——从0到1掌握算法面试需要的数据结构（一）.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/01-快速上手——从0到1掌握算法面试需要的数据结构（一）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/02-快速上手——从0到1掌握算法面试需要的数据结构（二）.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/02-快速上手——从0到1掌握算法面试需要的数据结构（二）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/03-快速上手——从0到1掌握算法面试需要的数据结构（三）.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/03-快速上手——从0到1掌握算法面试需要的数据结构（三）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/04-递归初相见——二叉树递归遍历的三种姿势.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/04-递归初相见——二叉树递归遍历的三种姿势.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/05-算法的衡量——轻松理解时间复杂度与空间复杂度.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/05-算法的衡量——轻松理解时间复杂度与空间复杂度.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/06-数组的应用——真题归纳与解读.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/06-数组的应用——真题归纳与解读.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/07-字符串的应用——真题归纳与解读.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/07-字符串的应用——真题归纳与解读.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/08-链表的应用——真题归纳与解读.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/08-链表的应用——真题归纳与解读.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/09-快慢指针与多指针——玩转链表复杂操作.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/09-快慢指针与多指针——玩转链表复杂操作.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/10-姿势特别的链表——环形链表专题.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/10-姿势特别的链表——环形链表专题.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/11-栈与队列怎么玩（上）.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/11-栈与队列怎么玩（上）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/12-栈与队列怎么玩（下）.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/12-栈与队列怎么玩（下）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/13-遍历专题 DFS 与 BFS.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/13-遍历专题 DFS 与 BFS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/14-场景化解读 递归与回溯思想在真题中的应用.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/14-场景化解读 递归与回溯思想在真题中的应用.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/15-二叉树真题归纳与解读.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/15-二叉树真题归纳与解读.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/16-特殊的二叉树——二叉搜索树专题.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/16-特殊的二叉树——二叉搜索树专题.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/17-特殊的二叉树——平衡二叉树专题.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/17-特殊的二叉树——平衡二叉树专题.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/18-特殊的二叉树——堆结构及其在排序中的应用.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/18-特殊的二叉树——堆结构及其在排序中的应用.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/19-排序算法专题（上）.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/19-排序算法专题（上）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/20-排序算法专题（下）.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/20-排序算法专题（下）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/21-普通人也能吃透的动态规划思想专题（上）.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/21-普通人也能吃透的动态规划思想专题（上）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-interview/note/22-普通人也能吃透的动态规划思想专题（下）.html" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-interview/note/22-普通人也能吃透的动态规划思想专题（下）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days/TODO.html" beforeDir="false" afterPath="$PROJECT_DIR$/days/TODO.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days/每日一题.html" beforeDir="false" afterPath="$PROJECT_DIR$/days/每日一题.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/advance.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/advance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/canvas.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/canvas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/computed-base.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/computed-base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design-pattern.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design-pattern.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/detail-expain.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/detail-expain.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/excellent.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/excellent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guide.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/handwritten.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/handwritten.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/improve.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/improve.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/npm-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/npm-script.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/other-questions.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/other-questions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/performance.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/performance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/qa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/review.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/review.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/simply-bak.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/simply-bak.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/simply.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/simply.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/taro.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/taro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/vip.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/vip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/webpack.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/webpack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/1-HTML模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/1-HTML模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/10-移动多端开发.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/10-移动多端开发.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/11-小程序模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/11-小程序模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/12-前端安全模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/12-前端安全模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/13-性能优化模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/13-性能优化模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/14-HTTP模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/14-HTTP模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/15-设计模式.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/15-设计模式.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/16-框架通识.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/16-框架通识.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/17-排序算法.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/17-排序算法.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/18-计算机通识.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/18-计算机通识.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/2-CSS模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/2-CSS模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/3-JS模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/3-JS模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/4-ES6模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/4-ES6模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/5-浏览器模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/5-浏览器模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/6-React.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/6-React.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/7-Vue.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/7-Vue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/8-Node模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/8-Node模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/9-前端工程模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/9-前端工程模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/性能优化.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/性能优化.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/面试指南.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/面试指南.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excellent-docs/高频模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/excellent-docs/高频模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/improve/improve2.html" beforeDir="false" afterPath="$PROJECT_DIR$/improve/improve2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-exp/前端面经汇总.html" beforeDir="false" afterPath="$PROJECT_DIR$/interview-exp/前端面经汇总.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/comprehensive/01-虚拟DOM原理分析.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/comprehensive/01-虚拟DOM原理分析.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/comprehensive/02-setTimeout实现原理和使用注意.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/comprehensive/02-setTimeout实现原理和使用注意.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/comprehensive/03-浅析Promise原理.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/comprehensive/03-浅析Promise原理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/comprehensive/04-浏览器渲染原理.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/comprehensive/04-浏览器渲染原理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/comprehensive/05-前端面试之MVVM浅析.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/comprehensive/05-前端面试之MVVM浅析.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/comprehensive/06-前端面试之组件化.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/comprehensive/06-前端面试之组件化.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/comprehensive/07-虚拟DOM（一）.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/comprehensive/07-虚拟DOM（一）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/comprehensive/08-虚拟DOM（二）.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/comprehensive/08-虚拟DOM（二）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/comprehensive/09-前端性能之Performance.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/comprehensive/09-前端性能之Performance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/node/01-Express原理篇.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/node/01-Express原理篇.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/node/02-Koa原理篇.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/node/02-Koa原理篇.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/node/03-Egg原理篇.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/node/03-Egg原理篇.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/react/01-React-router原理.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/react/01-React-router原理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/react/02-Dva总结.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/react/02-Dva总结.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/react/03-MobX总结.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/react/03-MobX总结.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/react/04-浅析redux-saga中间件及用法.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/react/04-浅析redux-saga中间件及用法.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/react/05-Redux之浅析中间件.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/react/05-Redux之浅析中间件.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/react/06-Redux之源码分析.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/react/06-Redux之源码分析.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/react/07-Redux之异步Action及操作.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/react/07-Redux之异步Action及操作.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/01-从源码解读Vue生命周期.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/01-从源码解读Vue生命周期.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/02-组件的本质.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/02-组件的本质.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/03-有状态组件的设计.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/03-有状态组件的设计.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/04-设计 VNode.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/04-设计 VNode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/05-辅助创建 VNode 的 h 函数.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/05-辅助创建 VNode 的 h 函数.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/06-自定义渲染器和异步渲染.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/06-自定义渲染器和异步渲染.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/07-渲染器之挂载.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/07-渲染器之挂载.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/08-渲染器的核心 Diff 算法.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/08-渲染器的核心 Diff 算法.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/09-渲染器之patch.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/09-渲染器之patch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/10-图解 Vue 响应式原理.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/10-图解 Vue 响应式原理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/11-图解 Vue 异步更新.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/11-图解 Vue 异步更新.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/12-剖析 Vue 内部运行机制.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/12-剖析 Vue 内部运行机制.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/13-vue响应式原理模拟.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/13-vue响应式原理模拟.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/vue/14-vue状态管理之vuex.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/vue/14-vue状态管理之vuex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/webpack/01-Webpack4打包机制原理解析.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/webpack/01-Webpack4打包机制原理解析.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/webpack/02-webpack中的HMR热更新原理剖析.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/webpack/02-webpack中的HMR热更新原理剖析.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/webpack/03-从源码窥探Webpack4.x原理.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/webpack/03-从源码窥探Webpack4.x原理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/webpack/04-实现webpack小型打包工具.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/webpack/04-实现webpack小型打包工具.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle-docs/webpack/05-Babel原理及其使用.html" beforeDir="false" afterPath="$PROJECT_DIR$/principle-docs/webpack/05-Babel原理及其使用.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qa/1-前端100题自检.html" beforeDir="false" afterPath="$PROJECT_DIR$/qa/1-前端100题自检.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qa/2-面试综合汇总.html" beforeDir="false" afterPath="$PROJECT_DIR$/qa/2-面试综合汇总.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qa/3-Promise面试题.html" beforeDir="false" afterPath="$PROJECT_DIR$/qa/3-Promise面试题.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23eL7Fk4rz3F2p2l8pBwwdpavo2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c8092ae-282b-4fd5-a918-64506c171ee0" name="Default Changelist" comment="" />
+      <created>1642089436886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642089436886</updated>
+      <workItem from="1642089438352" duration="1088000" />
+      <workItem from="1642090557240" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="192" width="599" height="566" key="find.popup" timestamp="1642091199181">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="420" y="192" width="599" height="566" key="find.popup/0.25.1440.820@0.25.1440.820" timestamp="1642091199181" />
+  </component>
+</project>
