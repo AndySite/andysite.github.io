@@ -1214,11 +1214,11 @@
 //     "revision": "36d195a28ba5e260a7a39ed7a9ffee56"
 //   },
 //   {
-//     "url": "logo.png",
+//     "url": "logo1.png",
 //     "revision": "736ab2ad735e2b92e0b74ba0ca36ca7a"
 //   },
 //   {
-//     "url": "logo.svg",
+//     "url": "logo1.svg",
 //     "revision": "193a730d0b1344fdbbbcd2c9cd733edc"
 //   },
 //   {
