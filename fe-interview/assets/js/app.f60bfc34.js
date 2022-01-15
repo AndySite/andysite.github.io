@@ -58625,89 +58625,93 @@
           items: [{
             text: "专题",
             ariaLabel: "专题",
-            items: [{
-              text: "前端基础相关",
-              link: "http://interview.poetries.top/fe-base-docs/compute-docs/Linux.html",
-              needPay: !0
-            }, {
-              text: "移动端相关",
-              link: "http://interview.poetries.top/fe-mobile-docs/h5-docs/1-大厂 H5 开发概述.html",
-              needPay: !0
-            }, {
-              text: "CSS相关",
-              link: "http://interview.poetries.top/fe-css-inspiration-docs/css-docs/note/01-浏览器.html",
-              needPay: !0
-            }, {
-              text: "Vue相关",
-              link: "http://interview.poetries.top/fe-vue-docs/learn-vue-base/base/1-Vue CLI 3 项目构建基础.html",
-              needPay: !0
-            }, {
-              text: "React相关",
-              link: "http://interview.poetries.top/fe-react-docs/react-web-action/01-前端开发的四个时代.html",
-              needPay: !0
-            }, {
-              text: "微前端相关",
-              link: "http://interview.poetries.top/fe-micro-docs/docs/01-微前端的诞生.html",
-              needPay: !0
-            }, {
-              text: "前端工程相关",
-              link: "http://interview.poetries.top/fe-engineering-docs/docs/npm-script.html",
-              needPay: !0
-            }, {
-              text: "Node学习指南",
-              link: "http://interview.poetries.top/fe-nodejs-docs/nodejs-docs/base/01-环境搭建.html",
-              needPay: !0
-            }, {
-              text: "TS相关",
-              link: "http://interview.poetries.top/fe-ts-axios-docs/ts-axios/chapter1/",
-              needPay: !0
-            }, {
-              text: "算法与数据结构",
-              link: "http://interview.poetries.top/fe-algorithm-docs/algorithm/prepare/01-如何系统高效地学习数据结构与算法.html",
-              needPay: !0
-            }, {
-              text: "浏览器原理",
-              link: "https://blog.poetries.top/browser-working-principle/guide/part1/lesson01.html",
-              hideForPay: !0
-            }, {
-              text: "HTTP基础",
-              link: "https://blog.poetries.top/http-protocol/notes/base/01-HTTP%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F.html",
-              hideForPay: !0
-            }, {
-              text: "webpack",
-              link: "/docs/webpack",
-              hideForPay: !0
-            }, {
-              text: "npm工作流",
-              link: "/docs/npm-script",
-              hideForPay: !0
-            }, {
-              text: "Canvas",
-              link: "/docs/canvas",
-              hideForPay: !0
-            }, {
-              text: "Taro原理",
-              link: "/docs/Taro",
-              hideForPay: !0
-            }, {
-              text: "Node学习指南",
-              link: "http://interview.poetries.top/fe-nodejs-docs/nodejs-docs/base/01-环境搭建.html",
-              hideForPay: !0
-            }, {
-              text: "Vue源码分析",
-              link: "http://interview.poetries.top/fe-vue-docs/vue-analysis/prepare/",
-              hideForPay: !0
-            }]
+            items: [
+              // {
+              // text: "前端基础相关",
+              // link: "http://interview.poetries.top/fe-base-docs/compute-docs/Linux.html",
+              // needPay: !0
+            // }, {
+            //   text: "移动端相关",
+            //   link: "http://interview.poetries.top/fe-mobile-docs/h5-docs/1-大厂 H5 开发概述.html",
+            //   needPay: !0
+            // }, {
+            //   text: "CSS相关",
+            //   link: "http://interview.poetries.top/fe-css-inspiration-docs/css-docs/note/01-浏览器.html",
+            //   needPay: !0
+            // }, {
+            //   text: "Vue相关",
+            //   link: "http://interview.poetries.top/fe-vue-docs/learn-vue-base/base/1-Vue CLI 3 项目构建基础.html",
+            //   needPay: !0
+            // }, {
+            //   text: "React相关",
+            //   link: "http://interview.poetries.top/fe-react-docs/react-web-action/01-前端开发的四个时代.html",
+            //   needPay: !0
+            // }, {
+            //   text: "微前端相关",
+            //   link: "http://interview.poetries.top/fe-micro-docs/docs/01-微前端的诞生.html",
+            //   needPay: !0
+            // }, {
+            //   text: "前端工程相关",
+            //   link: "http://interview.poetries.top/fe-engineering-docs/docs/npm-script.html",
+            //   needPay: !0
+            // }, {
+            //   text: "Node学习指南",
+            //   link: "http://interview.poetries.top/fe-nodejs-docs/nodejs-docs/base/01-环境搭建.html",
+            //   needPay: !0
+            // }, {
+            //   text: "TS相关",
+            //   link: "http://interview.poetries.top/fe-ts-axios-docs/ts-axios/chapter1/",
+            //   needPay: !0
+            // }, {
+            //   text: "算法与数据结构",
+            //   link: "http://interview.poetries.top/fe-algorithm-docs/algorithm/prepare/01-如何系统高效地学习数据结构与算法.html",
+            //   needPay: !0
+            // }, {
+            //   text: "浏览器原理",
+            //   link: "https://blog.poetries.top/browser-working-principle/guide/part1/lesson01.html",
+            //   hideForPay: !0
+            // }, {
+            //   text: "HTTP基础",
+            //   link: "https://blog.poetries.top/http-protocol/notes/base/01-HTTP%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F.html",
+            //   hideForPay: !0
+            // }, {
+            //   text: "webpack",
+            //   link: "/docs/webpack",
+            //   hideForPay: !0
+            // }, {
+            //   text: "npm工作流",
+            //   link: "/docs/npm-script",
+            //   hideForPay: !0
+            // }, {
+            //   text: "Canvas",
+            //   link: "/docs/canvas",
+            //   hideForPay: !0
+            // }, {
+            //   text: "Taro原理",
+            //   link: "/docs/Taro",
+            //   hideForPay: !0
+            // }, {
+            //   text: "Node学习指南",
+            //   link: "http://interview.poetries.top/fe-nodejs-docs/nodejs-docs/base/01-环境搭建.html",
+            //   hideForPay: !0
+            // }, {
+            //   text: "Vue源码分析",
+            //   link: "http://interview.poetries.top/fe-vue-docs/vue-analysis/prepare/",
+            //   hideForPay: !0
+            // }
+          ]
           }, {
             text: "其他",
             ariaLabel: "其他",
-            items: [{
-              text: "日常积累",
-              link: "http://interview.poetries.top/fe-blog-docs/blog-docs/javascript/-Ajax总结篇.html"
-            }, {
-              text: "博文",
-              link: "http://blog.poetries.top/archives/"
-            }]
+            items: [
+            //   {
+            //   text: "日常积累",
+            //   link: "http://interview.poetries.top/fe-blog-docs/blog-docs/javascript/-Ajax总结篇.html"
+            // }, {
+            //   text: "博文",
+            //   link: "http://blog.poetries.top/archives/"
+            // }
+           ]
           }]
         }],
         sidebar: {

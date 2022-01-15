@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c8092ae-282b-4fd5-a918-64506c171ee0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/app.f60bfc34.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/app.f60bfc34.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/simply.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/simply.html" afterDir="false" />
-    </list>
+    <list default="true" id="0c8092ae-282b-4fd5-a918-64506c171ee0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +59,7 @@
       <workItem from="1642176742305" duration="526000" />
       <workItem from="1642178368985" duration="43000" />
       <workItem from="1642178909328" duration="1218000" />
+      <workItem from="1642232832130" duration="381000" />
     </task>
     <servers />
   </component>
@@ -70,6 +67,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1642233082250">
+      <screen x="0" y="25" width="1440" height="819" />
+    </state>
+    <state x="184" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.819@0.25.1440.819" timestamp="1642233082250" />
     <state x="458" y="186" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1642139568641">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
