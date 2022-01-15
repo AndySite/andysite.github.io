@@ -58568,7 +58568,7 @@
             title: "通识篇",
             details: "巩固计算机基础"
           }],
-          footer: "Copyright © 2018 poetries"
+          footer: "Copyright © 2018 AndySite"
         },
         regularPath: "/",
         key: "v-b2754d56",
