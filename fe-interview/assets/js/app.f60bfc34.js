@@ -2250,11 +2250,7 @@
         e.removeChild(t)
       },
       appendChild: function (e, t) {
-        if(e && e.nodeName && e.nodeName == "#comment") {
-
-        } else {
-          e.appendChild(t)
-        }
+        e.appendChild(t)
       },
       parentNode: function (e) {
         return e.parentNode
@@ -58623,7 +58619,99 @@
           text: "算法面试",
           link: "/algorithm-interview/note/01-快速上手——从0到1掌握算法面试需要的数据结构（一）",
         }, 
-        
+        {
+          text: "",
+          ariaLabel: "",
+          items: [{
+            text: "",
+            ariaLabel: "",
+            items: [{
+              text: "",
+              link: "",
+              needPay: !0
+            }, {
+              text: "",
+              link: "",
+              needPay: !0
+            }, {
+              text: "",
+              link: "",
+              needPay: !0
+            }, {
+              text: "",
+              link: "",
+              needPay: !0
+            }, {
+              text: "",
+              link: "",
+              needPay: !0
+            }, {
+              text: "",
+              link: "",
+              needPay: !0
+            }, {
+              text: "",
+              link: "",
+              needPay: !0
+            }, {
+              text: "",
+              link: "",
+              needPay: !0
+            }, {
+              text: "",
+              link: "",
+              needPay: !0
+            }, {
+              text: "",
+              link: "",
+              needPay: !0
+            }, {
+              text: "",
+              link: "",
+              hideForPay: !0
+            }, {
+              text: "",
+              link: "",
+              hideForPay: !0
+            }, {
+              text: "webpack",
+              link: "/docs/webpack",
+              hideForPay: !0
+            }, {
+              text: "",
+              link: "/docs/npm-script",
+              hideForPay: !0
+            }, {
+              text: "Canvas",
+              link: "/docs/canvas",
+              hideForPay: !0
+            }, {
+              text: "Taro原理",
+              link: "/docs/Taro",
+              hideForPay: !0
+            }, {
+              text: "",
+              link: "",
+              hideForPay: !0
+            }, {
+              text: "",
+              link: "",
+              hideForPay: !0
+            }]
+          }, {
+            text: "",
+            ariaLabel: "",
+            items: [
+              {
+              text: "",
+              link: ""
+            }, {
+              text: "",
+              link: ""
+            }
+          ]
+          }]
+        }
       ],
         sidebar: {
           "/docs/": [
