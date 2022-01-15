@@ -2250,7 +2250,7 @@
         e.removeChild(t)
       },
       appendChild: function (e, t) {
-        e.appendChild(t)
+        e && e.appendChild && e.appendChild(t)
       },
       parentNode: function (e) {
         return e.parentNode
