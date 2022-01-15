@@ -2250,7 +2250,11 @@
         e.removeChild(t)
       },
       appendChild: function (e, t) {
-        e && e.appendChild && e.appendChild(t)
+        if(e && e.nodeName && e.nodeName == "#comment") {
+
+        } else {
+          e.appendChild(t)
+        }
       },
       parentNode: function (e) {
         return e.parentNode
