@@ -58618,7 +58618,6 @@
         }, {
           text: "算法面试",
           link: "/algorithm-interview/note/01-快速上手——从0到1掌握算法面试需要的数据结构（一）",
-          needPay: !0
         }, {
           text: "拓展阅读",
           ariaLabel: "拓展阅读",
